@@ -1,2 +1,2 @@
 config:
-    info: spring cloud config-prod version=2
+    info: spring cloud config-prod version=3
