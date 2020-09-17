@@ -1,1 +1,2 @@
-spring cloud config-test version=1
+config:
+	info: spring cloud config-test version=1
