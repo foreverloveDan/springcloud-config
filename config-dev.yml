@@ -1,1 +1,2 @@
-spring cloud config-dev version=1
+config:
+    info: spring cloud config-dev version=1
